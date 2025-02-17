@@ -39,7 +39,6 @@ The **PG Management System** is a web-based platform designed to simplify **book
 
 ## 📞 Contact
 For any queries or contributions, feel free to connect:  
-📧 **Email:** mvnaveen1947@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+📧 **Email:** mvnaveen1947@gmail.com   
 
 🚀 **Happy Coding!**
