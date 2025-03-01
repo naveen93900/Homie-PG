@@ -32,9 +32,10 @@ The **PG Management System** is a web-based platform designed to simplify **book
    
    ```
 2. **Set up the database**:
-   - Create a MySQL database: `pg_management`
+   - Create a MySQL database: `new_project`
    - Update `application.properties` with your DB credentials
-
+3. **Import the project into Eclipse**
+   -  Run the project after setting server
 
 
 ## 📞 Contact
