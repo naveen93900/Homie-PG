@@ -36,6 +36,9 @@ The **PG Management System** is a web-based platform designed to simplify **book
    - Update `application.properties` with your DB credentials
 3. **Import the project into Eclipse**
    -  Run the project after setting server
+### Admin Login Credentials
+1. **username**: admin@gmail.com
+   **password**:123 
 
 
 ## 📞 Contact
